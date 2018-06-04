@@ -1,3 +1,7 @@
+#GitHub: @t3rabyt3
+#Instagram: @1024gigabyte
+
+
 #!/usr/bin/env python3
 import socket
 import os
@@ -25,6 +29,10 @@ print ('''%s
 | |_) | |_ \ \ / /\___ \| '_ \  |_ \| | | |_ \| '__|
 |  _ < ___) \ V /  ___) | | | |___) | | |___) | |   
 |_| \_\____/ \_/  |____/|_| |_|____/|_|_|____/|_| 
+
+    }========{+}Made By T3rabyt3{+}========{
+}========{+}Instagram: @1024gigabyte{+}========{
+    }========{+}GitHub: @t3rabyt3{+}========{
 
 ''' % red)
 o = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
