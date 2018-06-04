@@ -75,3 +75,10 @@ def status():
         status()
 
 status()
+
+try:
+	status()
+	shell()
+except KeyboardInterrupt:
+	print ('\n' + R + '[!]' + C + ' Keyboard Interrupt.' + W)
+	exit()
